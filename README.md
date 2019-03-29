@@ -7,6 +7,8 @@ The "NC" stands for notes and coins denoting both have been issued by the countr
 
 Any database can be added by changing the JSON file and updating the related fields in the files.
 
+The front-end styling is not done. Bootstrap or any other module link react-bootstrap-table2 can be used to style. 
+
 The back-end database has not been linked. It is left to the user, whether he/she wants to save the changes. For that, a database can be established and the app can be linked, so that the database gets updated for every button click. 
 
 
